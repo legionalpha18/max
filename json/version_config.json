@@ -1,0 +1,11 @@
+
+{
+  "latest_version": "1.0",
+  "dialog_title": "Update Required",
+  "dialog_message": "A new version is available. Please update to continue.",
+  "button_update_now": "Update Now",
+  "button_later": "Later",
+  "show_login_button": 1,
+  "show_telegram_button": 1,
+  "show_input_field": 1
+}
