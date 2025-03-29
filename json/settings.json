@@ -14,7 +14,7 @@
     "com.tencent.ig": {
       "required_version": "3.7.0",
       "status": "1",
-      "show": "0", // Indicates whether to show this game
+      "show": "1", // Indicates whether to show this game
       "name": "PUBG MOBILE" // Game name
     },
     "com.pubg.krmobile": {
