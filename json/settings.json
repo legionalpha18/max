@@ -1,0 +1,27 @@
+
+{
+  "global_settings": {
+    "show_hide_esp": 1, // Controls the visibility of ESP feature
+    "signout_button": 1 // Controls the visibility of signout button
+  },
+  "games": {
+    "com.pubg.imobile": {
+      "required_version": "3.7.0",
+      "status": "1",
+      "show": "1", // Indicates whether to show this game
+      "name": "BGMI" // Game name
+    },
+    "com.tencent.ig": {
+      "required_version": "3.7.0",
+      "status": "1",
+      "show": "0", // Indicates whether to show this game
+      "name": "PUBG MOBILE" // Game name
+    },
+    "com.pubg.krmobile": {
+      "required_version": "3.7.0",
+      "status": "1",
+      "show": "0", // Indicates whether to show this game
+      "name": "PUBG KR" // Game name
+    }
+  }
+}
