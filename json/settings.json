@@ -20,7 +20,7 @@
     "com.pubg.krmobile": {
       "required_version": "3.7.0",
       "status": "1",
-      "show": "1", // Indicates whether to show this game
+      "show": "0", // Indicates whether to show this game
       "name": "PUBG KR" // Game name
     }
   }
